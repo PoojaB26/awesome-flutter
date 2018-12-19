@@ -59,6 +59,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) [1.1K claps👏] - Building beautiful, flexible user interfaces.
 - [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) [3.4K claps👏] - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).
 - [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) [761 claps👏] - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid).
+- [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26) [1.2K claps👏] - A step by step guide for learning Flutter for super beginners by [Pooja Bhaumik](https://twitter.com/pblead26).
 
 ### Tutorial
 
